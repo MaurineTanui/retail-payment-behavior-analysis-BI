@@ -2,7 +2,7 @@
 
 A Power BI analysis of cash, credit card, and e-wallet preferences across Guadalajara, Mexico DF, and Monterrey — segmented by customer gender.
 
-![Dashboard Screenshot](assets/dashboard-screenshot.png)
+![Dashboard Screenshot](BI%20Dashboard-snapshot.png)
 ## Overview
 
 Payment behavior isn't uniform across markets — it varies by city and by customer segment in ways that matter for how retailers plan promotions, staffing, and payment infrastructure. This analysis breaks down cash, credit card, and e-wallet sales across three cities, split by male and female customers, to surface where each payment method dominates and why.
